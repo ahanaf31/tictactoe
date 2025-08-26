@@ -1,4 +1,4 @@
-# 🕹️ Tic-Tac-Toe Game
+ # 🕹️ Tic-Tac-Toe Game
 
 A simple and interactive command-line implementation of the classic Tic-Tac-Toe game in Python. This game allows two players to take turns, placing their marks (X and O) on a 3x3 board. The first player to align three marks in a row — horizontally, vertically, or diagonally — wins the game. It's a fun way to practice Python basics like loops, functions, and conditionals.
 
@@ -31,4 +31,5 @@ This project is perfect for:
 ### ✅ Prerequisites
 
 Make sure you have Python 3.x installed on your machine.
+
 
